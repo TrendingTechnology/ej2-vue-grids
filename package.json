@@ -1,6 +1,6 @@
 {
   "name": "@syncfusion/ej2-vue-grids",
-  "version": "16.2.46",
+  "version": "16.2.47",
   "description": "Essential JS 2 Grid Component for Vue",
   "author": "Syncfusion Inc.",
   "license": "SEE LICENSE IN license",
@@ -20,7 +20,7 @@
   "dependencies": {
     "@syncfusion/ej2-base": "~16.2.46",
     "@syncfusion/ej2-vue-base": "~16.2.46",
-    "@syncfusion/ej2-grids": "~16.2.46"
+    "@syncfusion/ej2-grids": "~16.2.47"
   },
   "devDependencies": {
     "awesome-typescript-loader": "^3.1.3",
